@@ -5,7 +5,7 @@
 <ul>
   <li>Control System Theory</li>
   <li>PID control</li>
-  <li>Arduino</li>
+  <li>Arduino IDE</li>
   <li>Protues</li>
   <li>Ultrasonics Sensor</li>
   <li>Beam</li>
